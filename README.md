@@ -59,8 +59,4 @@ Run the cells top to bottom; the final cell renders the interactive dashboard.
 > The dashboard is interactive (Panel + Bokeh + Plotly) and won't render on GitHub's static
 > notebook preview. Run it in Jupyter/Colab to use it, or see the screenshots in `images/`.
 
-## Screenshots
-
-_Add 1–2 screenshots of the running dashboard to the `images/` folder and they'll appear here._
-
 <!-- ![Dashboard overview](images/dashboard.png) -->
