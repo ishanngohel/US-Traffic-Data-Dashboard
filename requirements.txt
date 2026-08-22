@@ -1,0 +1,10 @@
+pandas
+panel
+hvplot
+holoviews
+plotly
+bokeh
+matplotlib
+seaborn
+geoviews
+jupyter
