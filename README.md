@@ -2,7 +2,7 @@
 
 ## Live Dashboard
 
-**[Open the interactive dashboard](https://ishanngohel.github.io/<US-Traffic-Data-Dashboard>/)**
+**[Open the interactive dashboard](https://ishanngohel.github.io/US-Traffic-Data-Dashboard/)**
 
 ![Dashboard preview](images/dashboard.png)
 
