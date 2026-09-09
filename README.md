@@ -1,11 +1,17 @@
 # U.S. Traffic Accidents — Interactive Dashboard
 
+## Live Dashboard
+
+**[Open the interactive dashboard](https://ishanngohel.github.io/<US-Traffic-Data-Dashboard>/)**
+
+![Dashboard preview](images/dashboard.png)
+
 An interactive dashboard exploring ~100,000 U.S. traffic accidents, built in Python with
 **Panel**, **hvPlot/HoloViews**, **Plotly**, and **Matplotlib/Seaborn**. Users can filter by
 accident severity, state, and year range and watch every chart update reactively.
 
 Group final project for **DSCI 454 (Data Visualization & User Interface Design)**, USC.
-Team: Fatima, Hari, Ishan Gohel, and Zayanna. *Ishan led the data cleaning and preparation.*
+Team: Fatima, Hari, Ishan Gohel, and Zayanna.
 
 ---
 
